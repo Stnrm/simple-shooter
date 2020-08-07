@@ -5,6 +5,8 @@ Simple two-player space shooter game built with PyGame.
 
 To run you need PyGame.
 
+Press "esc" to quit.
+
 ## First player controls:
 - W - Up
 - D - Right
